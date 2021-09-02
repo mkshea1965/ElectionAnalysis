@@ -1,7 +1,7 @@
 # ElectionAnalysis
 
-## Overview of Election Audit: 
-## Election-Audit Results: 
+## Overview of Election Audit
+## Election-Audit Results 
 - How many votes were cast in this congressional election?
     - 369,711
 
@@ -26,4 +26,4 @@
         - Winning Vote Count: 272,892
         - Winning Percentage: 73.8%
 
-## Election-Audit Summary: 
+## Election-Audit Summary 
