@@ -32,8 +32,8 @@ The purpose of this analysis is to help a Colorado Board of Elections employee n
 ## Election-Audit Summary
 In conclusion, the script produced for the Colorodo Board of Elections can be minimally modified to apply to any election, depending on the data file the election data is coming from. One example of modifying the script includes changing lines 8-9 of PyPoll_Challenge.py:
 
-  8  # Add a variable to load a file from a path.
-  9  file_to_load = os.path.join("Resources", "election_results.csv")
+    8  # Add a variable to load a file from a path.
+    9  file_to_load = os.path.join("Resources", "election_results.csv")
   
 We could change the file_to_load variable to any csv file as long as we know the file path and how to correctly manipulate it relative to the script's location. 
 
